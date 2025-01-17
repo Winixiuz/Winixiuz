@@ -36,7 +36,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img height="300" src="https://blogclarimdiario.wordpress.com/wp-content/uploads/2014/05/andrew-garfield-peter-parker-emma-stone-gwen-stacy-amazing-spider-man-2.jpg"  />
 </div>
 
