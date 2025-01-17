@@ -26,14 +26,8 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img height="295" src="https://uploads.jovemnerd.com.br/wp-content/uploads/2023/08/boruto_two_blue_vortex_personagens_estreia__2n503l.jpg"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="400" src="https://blogclarimdiario.wordpress.com/wp-content/uploads/2014/05/andrew-garfield-peter-parker-emma-stone-gwen-stacy-amazing-spider-man-2.jpg"  />
 </div>
 
 ###
