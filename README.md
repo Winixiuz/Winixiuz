@@ -37,13 +37,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&theme=ocean_dark&username=Winixiuz" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://www.google.com/imgres?q=homem.aranha%20andrew%20garfield%20e%20gwen&imgurl=https%3A%2F%2Fblogclarimdiario.wordpress.com%2Fwp-content%2Fuploads%2F2014%2F05%2Fandrew-garfield-peter-parker-emma-stone-gwen-stacy-amazing-spider-man-2.jpg&imgrefurl=https%3A%2F%2Fblogclarimdiario.wordpress.com%2F2014%2F05%2F13%2Fo-espetacular-homem-aranha-2-critica%2F&docid=oWaPl2caCh5C9M&tbnid=bQ7__OcoLlxahM&vet=12ahUKEwiby53J8_uKAxWjGVkFHXzYIqkQM3oECE0QAA..i&w=2048&h=1365&hcb=2&ved=2ahUKEwiby53J8_uKAxWjGVkFHXzYIqkQM3oECE0QAA"  />
+  <img height="200" src=img/spiderman.jfif">
 </div>
 
 ###
