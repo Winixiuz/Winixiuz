@@ -25,9 +25,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img height="295" width="400" src="https://uploads.jovemnerd.com.br/wp-content/uploads/2023/08/boruto_two_blue_vortex_personagens_estreia__2n503l.jpg"  />
-</div>
-
-###
